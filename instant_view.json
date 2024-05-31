@@ -1,0 +1,32 @@
+{
+  "instant_view_version": 1,
+  "rules": {
+    "article": {
+      "content": {
+        "blocks": [
+          {
+            "type": "header",
+            "attrs": {
+              "level": 1
+            },
+            "text": "Заголовок статьи"
+          },
+          {
+            "type": "paragraph",
+            "text": "Первый абзац статьи. Используйте теги HTML для форматирования текста."
+          },
+          {
+            "type": "link",
+            "url": "https://ваш_сайт.com/страница",
+            "text": "Ссылка на другую страницу"
+          },
+          {
+            "type": "image",
+            "src": "https://ваш_сайт.com/изображение.jpg",
+            "caption": "Подпись к изображению"
+          }
+        ]
+      }
+    }
+  }
+}
